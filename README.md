@@ -3,7 +3,7 @@
 **`Back-end em construção🔧`**
 
 Olá! Me chamo Jessica Arantes, tenho 27 anos e sou natural do Mato Grosso do Sul. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Estácio, onde estou construindo minha base na área de tecnologia.
-Sou apaixonada por tudo que envolve o universo da programação e, no momento, estou focada em aprender e evoluir na área de desenvolvimento back-end.
+Sou apaixonada por tudo que envolve o universo da TI e, no momento, estou focada em aprender e evoluir na área de analise de dados.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessyArantes&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessyArantes&layout=compact)

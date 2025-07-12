@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Jessica Arantes
 
-**`Back-end em construção🔧`**
+**`Analista de Dados em formação 🔧`**
 
 Olá! Me chamo Jessica Arantes, tenho 27 anos e sou natural do Mato Grosso do Sul. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Estácio, onde estou construindo minha base na área de tecnologia.
 Sou apaixonada por tudo que envolve o universo da TI e, no momento, estou focada em aprender e evoluir na área de analise de dados.
